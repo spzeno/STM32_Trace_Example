@@ -1,3 +1,6 @@
+# STM32 CoreSight硬件辅助追踪示例
+a rather better tutorial: https://interrupt.memfault.com/blog/profiling-firmware-on-cortex-m
+
 # STM32 ITM/ETM trace example
 
 This is an example on how to configure the TPIU/DWT/ITM/ETM blocks
